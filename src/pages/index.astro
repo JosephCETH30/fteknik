@@ -5,10 +5,8 @@ import Footer from '../components/Footer.astro'
 import { SITE_TITLE, SITE_DESCRIPTION, HOMEPAGE_URL } from '../config'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
-import { IoArrowForward } from 'react-icons/io5/index.js'
 import Masthead from '../components/Masthead.astro'
 import { Image } from '@astrojs/image/components'
-import CreatedWithSection from '../components/CreatedWithSection.astro'
 
 const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
@@ -29,18 +27,12 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       <Content>
         <section>
           <p class="mb-8 indent-4">
-            As an indie developer, I&apos;ve been spending hours and hours at my
-            desk every day. So, I&apos;ve been continuously improving my
-            workspace in order to boost my productivity. Whenever I upload new
-            content, people ask me what tools I use. So, here is a living
-            snapshot and a place to point curious developers to when I get
-            asked. Most of the links are amazon affiliate links, so I&apos;ll
-            get filthy rich if you click them and buy something.
-            <a
-              class="inline-flex items-center gap-1 indent-1 text-orange-500"
-              href={HOMEPAGE_URL}
-              >Learn more about me <IoArrowForward className="inline" />
-            </a>
+            In the rapidly evolving digital landscape, mastering Artificial Intelligence (AI) can be a game-changer for enhancing productivity and efficiency. By integrating AI into your workflow, you can automate routine tasks, make data-driven decisions, and streamline complex processes. Whether you&apos;re in business, education, healthcare, or any other field, AI offers tools and technologies that can significantly reduce workload and time consumption. Embrace the power of AI to transform the way you work, enabling you to achieve more in less time and stay ahead in your career.
+
+            <br><br>
+
+            Dalam lanskap digital yang berkembang pesat, menguasai Kecerdasan Buatan (AI) dapat menjadi pembeda utama dalam meningkatkan produktivitas dan efisiensi. Dengan mengintegrasikan AI ke dalam alur kerja Anda, Anda dapat mengotomatisasi tugas rutin, membuat keputusan berbasis data, dan menyederhanakan proses kompleks. Baik Anda berada di dunia bisnis, pendidikan, kesehatan, atau bidang lainnya, AI menawarkan alat dan teknologi yang dapat secara signifikan mengurangi beban kerja dan konsumsi waktu. Manfaatkan kekuatan AI untuk mengubah cara Anda bekerja, memungkinkan Anda untuk mencapai lebih banyak dalam waktu yang lebih singkat dan tetap unggul dalam karier Anda.
+          
           </p>
         </section>
         <section>
@@ -70,7 +62,6 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
             }
           </ul>
         </section>
-        <CreatedWithSection />
       </Content>
     </main>
     <Footer />
