@@ -63,7 +63,77 @@ Instrumentation: Focuses on the design and configuration of devices that measure
 -> Streamline your design process to conserve resources and reduce costs, all while speeding up your time to market. Our solutions also contribute to the overall quality, reliability, and safety of your end product, ensuring you deliver superior results efficiently and effectively.
 <br><br>
 
+## Free Prompt for Cady AI
+<div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Task Context</th>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Simple Prompt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Seamless Automatic Analysis of Electrical Schematics</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Effortlessly analyze electrical schematics with advanced automation tools, ensuring accuracy and efficiency in identifying circuit components, connections, and functionalities."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Error Detection in Schematics</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Detect critical errors in electrical schematics with a high success rate, improving accuracy and reliability in design."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Reducing Re-spins and Time to Market</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Reduce design re-spins, accelerate time to market, and enhance the quality, reliability, and safety of electrical systems."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">User-Friendly and Secure System</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Provide a user-friendly system with high data security, ensuring that customer Netlist and BOM files are not stored on our servers."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Enhancing Design Process and Efficiency</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Enhance your design process, conserve resources, save money, and accelerate time to market while improving overall product quality, reliability, and safety."</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Task Context</th>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Advanced Prompt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Seamless Automatic Analysis of Electrical Schematics</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Utilize advanced automation tools to perform an in-depth analysis of electrical schematics, focusing on identifying all circuit components, connections, and functionalities with high accuracy. The system should offer recommendations for optimizing the design and detecting potential issues early in the design phase."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Error Detection in Schematics</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Leverage the system's advanced error detection capabilities to identify and categorize critical and minor errors in electrical schematics. Provide detailed reports on detected errors, their potential impact on functionality, and actionable insights for rectification to enhance design accuracy and reliability."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Reducing Re-spins and Time to Market</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Implement strategies to minimize design re-spins and expedite the time to market by integrating automated verification and validation processes. Ensure that the final design is optimized for performance, reliability, and safety, and includes features for rapid prototyping and iterative improvements."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">User-Friendly and Secure System</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Design a user-friendly system that adheres to the highest standards of data security. Ensure that customer Netlist and BOM files are handled with strict confidentiality and are never stored on external servers. Provide intuitive user interfaces and robust security measures to protect sensitive information."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Enhancing Design Process and Efficiency</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Optimize the design process by incorporating AI-driven insights to conserve resources, reduce costs, and accelerate time to market. The system should enhance the overall quality, reliability, and safety of the final product through advanced simulation and optimization techniques, ensuring that the design meets the highest standards of performance."</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
 ### Manfaat Cady Solutions
+<br>
 CADY Solutions offers a comprehensive suite of tools that revolutionize the design process for electrical schematics. With seamless automatic analysis, the system ensures accuracy and efficiency, identifying critical errors in over 65% of analyzed schematics. This leads to significant reductions in design re-spins, faster time to market, and enhanced final product quality, reliability, and safety. User-friendly and adhering to the highest data security standards, CADY safeguards sensitive information by not storing customer Netlist and BOM files. By streamlining the design process, CADY helps conserve resources, save money, and deliver superior results, ultimately contributing to the overall quality and safety of your end products.
 
 <div style="text-align: center; margin-top: 20px;">

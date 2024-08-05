@@ -64,7 +64,83 @@ Building Information Modeling (BIM) adalah representasi digital dari karakterist
 -> Kompatibilitas: Sering kali diintegrasikan dengan perangkat lunak BIM (Building Information Modeling) dan CAD (Computer-Aided Design) untuk meningkatkan alur kerja dan efisiensi.
 <br><br>
 
+### Free Prompt for Civils.ai
+
+<div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Task Context</th>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Advanced Prompt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Planning and Analysis</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Utilize AI algorithms to assist in the planning and structural analysis of electrical systems, ensuring optimal design for power distribution and load management."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Performance Simulation</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Provide simulations to predict the performance of electrical systems under various load conditions and environmental factors."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Conflict Detection</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Identify potential conflicts or issues within electrical designs that might not be apparent initially, minimizing risks during implementation."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Design Improvement Recommendations</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Provide AI-based recommendations for improving electrical designs based on detailed analysis and simulation results."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Material Optimization</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Optimize material usage in electrical installations to reduce waste and cost, while maintaining performance standards."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Cost Estimation</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Provide accurate cost estimates for electrical projects, considering various factors such as material costs and labor."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Project Monitoring</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Enable real-time monitoring of electrical project progress and manage different project aspects more efficiently."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Team Collaboration</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Enhance team collaboration with better data sharing and coordination features, ensuring seamless communication throughout the project."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Project Visualization</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Provide 3D visualizations and models of electrical systems to aid in presentations and better understanding of designs."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Reporting and Documentation</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Generate necessary reports and documentation for electrical projects, ensuring compliance with engineering standards."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Software Integration</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Integrate with other software tools such as BIM (Building Information Modeling) and CAD (Computer-Aided Design) to enhance workflow and efficiency."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Efficiency</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Accelerate design and analysis processes through automation and AI, improving overall efficiency."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Accuracy</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Enhance accuracy in planning and structural calculations, reducing errors and improving reliability."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Cost Savings</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Reduce project costs through material optimization and design efficiency improvements."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Collaboration</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Improve team collaboration and project management with advanced features for data sharing and coordination."</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 ### Manfaat Civils.ai
+<br>
 -> Efisiensi: Mempercepat proses desain dan analisis dengan otomatisasi dan kecerdasan buatan.
 <br>
 -> Akurasi: Meningkatkan akurasi dalam perencanaan dan perhitungan struktural.

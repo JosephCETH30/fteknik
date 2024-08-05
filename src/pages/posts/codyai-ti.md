@@ -105,6 +105,42 @@ func (opts UpdateCustomerOptions) Validate() error {
 
 </div> <br>
 
+### Free Prompts for Cody.ai 
+<br>
+<div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Task Context</th>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Simple Prompt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Explain Neural Networks</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Can you explain the concept of neural networks?"</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">API Key Creation</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"How do I create an API key for Claude?"</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Integrate Claude with Products</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"What are the integration options for Claude with other products?"</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Use Claude API with Python</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"How can I use Claude's API with Python to generate responses?"</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Claude vs GPT-4</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"What are the differences between Claude 3 and GPT-4?"</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
 ### Summary
 Cody is an AI coding assistant that uses advanced search and codebase context to help you understand, write, and fix code faster.
 

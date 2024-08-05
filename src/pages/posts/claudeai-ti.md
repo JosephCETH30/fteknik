@@ -118,6 +118,62 @@ Here's an example of a Python script that instructs Claude to explain the concep
     </pre>
 </div> <br>
 
+### Free Prompts for claude.ai
+
+<div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Task Context</th>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Advanced Prompt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Human-like Conversations</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Engage in a conversation with Claude to explore various topics and obtain human-like responses based on your queries."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Image and Document Summarization</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Upload an image or document to Claude and ask it to summarize the content or answer specific questions about it."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">API Integration</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Integrate Claude 3 into your application via API to leverage its capabilities for automated responses and content generation."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Explaining Concepts</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Use the API to instruct Claude to explain complex concepts such as neural networks in a clear and concise manner."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Accessibility Through Platforms</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Access Claude 3 through various platforms such as Notion, Amazon, and DuckDuckGo, as well as directly via its API."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">API Key Management</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Create and manage your API key through Claude's platform, ensuring it is securely stored for integration into your applications."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Free Access via Microsoft</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Utilize GPT-4 for free via Microsoft's Copilot as part of their integration with OpenAI's models."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Example Code Usage</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Refer to the provided Python script example to understand how to interact with Claude using the API for specific queries."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Empowering Developers</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Leverage AI to accelerate development processes and enhance productivity in software development projects."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Future of Software Development</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Explore how AI-driven tools like Claude can shape the future of software development by improving efficiency and innovation."</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
 ### Summary
 Claude represents a significant leap in the realm of artificial intelligence that outmatches various competitors in the market.
 

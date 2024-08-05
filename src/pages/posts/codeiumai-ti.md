@@ -83,6 +83,58 @@ def plot_two_variables(data, col_a, col_b):
     plt.ylabel(col_b)
     plt.show()
 </pre>
+<br>
+
+### Free Prompts for Codeium AI
+<div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Task Context</th>
+                <th style="padding: 12px; text-align: left; background-color: #383838;">Advanced Prompt</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Generative Code Autocomplete</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Utilize Codeium's advanced AI to autocomplete code snippets in your IDE, speeding up development and improving productivity."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">IDE Integration</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Integrate Codeium with your favorite IDEs to benefit from real-time code suggestions and completions across multiple languages."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Free Access</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Experience Codeium's full capabilities for free, including unlimited autocomplete and support for over 70 programming languages."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Language Support</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Explore Codeium's support for 70+ programming languages and integration with 40+ editors, tailored to your development needs."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">AI-Driven Coding Enhancements</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Leverage next-generation AI to enhance your coding experience, from rapid autocompletion to intelligent code suggestions."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Productivity Boost</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Accelerate your development process with Codeium's real-time code assistance, reducing manual coding and improving efficiency."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Free Playground</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Try Codeium's AI-powered autocomplete in our free playground to see its capabilities before integrating it into your workflow."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Sample Code Integration</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Use the provided sample code to create scatter plots with lines of best fit, showcasing Codeium's ability to assist with data visualization tasks."</td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; border: 1px solid #ddd;">Empowering Developers</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">"Discover how Codeium is dedicated to empowering developers worldwide by providing cutting-edge AI tools to build and ship products faster."</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 <script>
     document.addEventListener('contextmenu', function (event) {
