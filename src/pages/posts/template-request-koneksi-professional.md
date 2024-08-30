@@ -8,7 +8,7 @@ updatedAt: 1663636038883
 tags:
   - Others
 heroImage: https://www.longdistancecreator.com/wp-content/uploads/2021/05/linkedin-statistics.png
-slug: teknikinformatika
+slug: Others
 ---
 
 LinkedIn is a professional networking platform primarily used for career development and business connections. It serves several key purposes:
