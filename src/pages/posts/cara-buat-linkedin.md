@@ -164,7 +164,7 @@ LinkedIn is an excellent platform for developing and strengthening your brand. I
   <a href="https://linkedin.com" target="_blank" style="font-family: 'Poppins, sans-serif' display: inline-block; padding: 12px 23px; font-size: 20px; font-weight: bold; color: #ffffff; background-color: #3a6cf4; text-decoration: none; border-radius: 5px;">Visit Linkedin</a>
 </div> <br>
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://linkedin.com" target="_blank" style="font-family: 'Poppins, sans-serif' display: inline-block; padding: 12px 23px; font-size: 20px; font-weight: bold; color: #ffffff; background-color: #3a6cf4; text-decoration: none; border-radius: 5px;">ChatGPT</a>
+  <a href="https://chatgpt.com" target="_blank" style="font-family: 'Poppins, sans-serif' display: inline-block; padding: 12px 23px; font-size: 20px; font-weight: bold; color: #ffffff; background-color: #3a6cf4; text-decoration: none; border-radius: 5px;">ChatGPT</a>
 </div>
 
 <br>
