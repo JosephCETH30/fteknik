@@ -1,8 +1,8 @@
 ---
-description: Cara Membuat Linkedin dengan Mudah dan Gratis
+description: Linkedin x Chatgpt
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Linkedin
+title: Cara membuat Linkedin dengan Mudah dan Gratis
 createdAt: 1663636000714
 updatedAt: 1663636038883
 tags:

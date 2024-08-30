@@ -1,8 +1,8 @@
 ---
-description: Template untuk Mendapatkan Koneksi di Linkedin
+description: Linkedin x Chatgpt
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Linkedin
+title: Template untuk Mendapatkan Koneksi di Linkedin
 createdAt: 1663636000714
 updatedAt: 1663636038883
 tags:
